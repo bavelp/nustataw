@@ -32,8 +32,9 @@ Northwestern’s library also has plenty of helpful books and articles for all l
 ## **GitHub:**
 Because the goal is to make these workshops collaborative environments, it is really important to have a GitHub
 account. We want to be able to share files with each other to learn the different ways we can work through a
-dataset/problem. If you do not yet have an account, there is a tutorial to familiarize with how to use Github and why
-you would want to at https://guides.github.com/activities/hello-world/.
+dataset/problem. Also, all announcements will be done over GitHub, so it is important to enable notifications for
+these announcements by "Watching" the repository. If you do not yet have an account, there is a tutorial to familiarize
+with how to use Github and why you would want to at https://guides.github.com/activities/hello-world/.
 
 ## **Code and Readability:**
 Because you are producing code for others to see, you should make sure that it is readable. This means adding plenty
