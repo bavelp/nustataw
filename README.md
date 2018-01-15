@@ -1,10 +1,10 @@
 # Department of Statistics: Analytics Workshops
 
-**Day:**  Wednesdays every other week (9/27, 10/11, 10/25, 11/8, 11/29)
+**Day:**  Wednesdays every other week (1/17, 1/31, other times tbd)
 
-**Time:**  7-9 p.m. (tentative)
+**Time:**  6-7:30 p.m.
 
-**Location:**  2006 Sheridan Road, B02 (tentative)
+**Location:**  2006 Sheridan Road, B02
 
 **Contact:**  Bailey Pleva
 
