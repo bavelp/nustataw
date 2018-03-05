@@ -18,7 +18,7 @@ in applications of statistics through analytics in a collaborative environment.
 For each workshop, you will be presented with a dataset and an assigned task. Please bring your laptop fully
 charged, as it isn’t guaranteed you will have access to a power outlet. You will be spending most of the time
 working on the assigned task with others (Bring friends!). At the end of each workshop, you will be asked to
-share you work to GitHub.
+share your work to GitHub.
 
 ## **Prerequisite Knowledge:**
 These workshops are open to all skill levels. However, because work will involve programming in either Python
